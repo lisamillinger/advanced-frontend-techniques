@@ -1,0 +1,9 @@
+{
+  "name": "grunt-vorlage",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
